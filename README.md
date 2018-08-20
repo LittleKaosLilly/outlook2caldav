@@ -1,2 +1,3 @@
 # outlook2caldav
-allow sync from outlook calendar to a caldav server
+Allow sync from outlook calendar to a caldav server.
+This is using the outlook installation on the windows.
